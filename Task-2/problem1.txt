@@ -1,0 +1,14 @@
+1. This program will allow the user the check whether the given number is divisible by 3 or not.
+int h,i,j
+display"Enter the value of j"
+Accept j
+h=j/3
+i=j-(h*3)
+if 
+  i=0
+ print"True"
+else
+  print"False"
+
+
+
